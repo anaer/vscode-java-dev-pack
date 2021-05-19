@@ -1,0 +1,27 @@
+{
+    "name": "anaer-dev-pack",
+    "displayName": "ANAER DEV PACK",
+    "description": "",
+    "publisher": "anaer",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "vscjava.vscode-java-debug", 
+        "gracie-wdy.eyes-love", 
+        "sleistner.vscode-fileutils", 
+        "eamodio.gitlens", 
+        "redhat.java", 
+        "redhat.vscode-commons", 
+        "redhat.vscode-xml", 
+        "redhat.vscode-yaml", 
+        "GabrielBB.vscode-lombok", 
+        "vscjava.vscode-maven", 
+        "vscodevim.vim", 
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}

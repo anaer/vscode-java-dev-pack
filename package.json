@@ -1,9 +1,12 @@
 {
-    "name": "anaer-dev-pack",
-    "displayName": "ANAER DEV PACK",
+    "name": "vscode-java-dev-pack",
+    "displayName": "vscode java dev pack",
     "description": "",
     "publisher": "anaer",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "repository": {
+        "url":"https://github.com/anaer/vscode-java-dev-pack.git"
+    },
     "engines": {
         "vscode": "^1.56.0"
     },

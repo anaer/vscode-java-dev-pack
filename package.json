@@ -1,9 +1,9 @@
 {
     "name": "vscode-java-dev-pack",
     "displayName": "vscode java dev pack",
-    "description": "",
+    "description": "java开发包",
     "publisher": "anaer",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "repository": {
         "url":"https://github.com/anaer/vscode-java-dev-pack.git"
     },
@@ -25,6 +25,7 @@
         "GabrielBB.vscode-lombok", 
         "vscjava.vscode-maven", 
         "vscodevim.vim", 
-        "VisualStudioExptTeam.vscodeintellicode"
+        "VisualStudioExptTeam.vscodeintellicode",
+        "felipecaputo.git-project-manager"
     ]
 }

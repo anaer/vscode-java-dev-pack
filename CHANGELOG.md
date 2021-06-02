@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.5
+
+* README.md调整
+
 ## 0.0.4
 
 * 添加bookmarks

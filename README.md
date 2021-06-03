@@ -18,8 +18,6 @@
     - mapper文件跳转 java->xml
 ## Git相关
 
-- [📦 Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
-    - Git项目管理, 方便切换工程
 - [📦 GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
     - Git工具, 功能强大
 
@@ -45,3 +43,4 @@
     - 文件工具, 主要使用文件重命名功能
 - [📦 eyes-love](https://marketplace.visualstudio.com/items?itemName=gracie-wdy.eyes-love)
     - 护眼主题
+

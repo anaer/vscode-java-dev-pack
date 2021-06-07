@@ -2,6 +2,10 @@
 
 ## 0.0.6
 
+* 添加p3c
+
+## 0.0.6
+
 * 去除Git Project Manager, 可能项目太多, 加载有点慢, 还是直接使用自带的recent project.
 * 添加图标, https://www.flaticon.com/free-icon/tea-cup_3942205
 

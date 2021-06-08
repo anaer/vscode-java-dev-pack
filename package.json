@@ -3,7 +3,7 @@
     "displayName": "vscode java dev pack",
     "description": "java开发包",
     "publisher": "anaer",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "icon": "icon.png",
     "repository": {
         "url":"https://github.com/anaer/vscode-java-dev-pack.git"

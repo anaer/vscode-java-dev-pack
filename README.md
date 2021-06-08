@@ -14,8 +14,6 @@
     - lombok插件集成
 - [📦 Java Decompiler](https://marketplace.visualstudio.com/items?itemName=dgileadi.java-decompiler)
     - Java反编译
-- [📦 vsc-mybatis](https://marketplace.visualstudio.com/items?itemName=niko.vsc-mybatis)
-    - mapper文件跳转 java->xml
 - [📦 Java P3C Checker](https://marketplace.visualstudio.com/items?itemName=Rectcircle.vscode-p3c)
     - 代码检测
 ## Git相关

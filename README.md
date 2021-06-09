@@ -16,6 +16,7 @@
     - Java反编译
 - [📦 Java P3C Checker](https://marketplace.visualstudio.com/items?itemName=Rectcircle.vscode-p3c)
     - 代码检测
+
 ## Git相关
 
 - [📦 GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
@@ -27,6 +28,7 @@
     - vim插件
 - [📦 Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
     - 代码补全
+
 ## 语法文件
 - [📦 XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
     - xml格式化

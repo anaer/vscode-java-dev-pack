@@ -3,7 +3,7 @@
     "displayName": "vscode java dev pack",
     "description": "java开发包",
     "publisher": "anaer",
-    "version": "0.0.9",
+    "version": "0.1.0",
     "icon": "icon.png",
     "repository": {
         "url":"https://github.com/anaer/vscode-java-dev-pack.git"
@@ -29,7 +29,6 @@
         "VisualStudioExptTeam.vscodeintellicode",
         "alefragnani.bookmarks",
         "dgileadi.java-decompiler",
-        "niko.vsc-mybatis",
         "rectcircle.vscode-p3c"
     ]
 }

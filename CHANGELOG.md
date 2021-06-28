@@ -1,8 +1,13 @@
 # Change Log
 
+## 0.1.0(2021-06-28)
+
+* package.json未去掉vsc-mybatis
+
 ## 0.0.9(2021-06-09)
 
 * 调整readme格式
+
 ## 0.0.8
 
 * 去除vsc-mybatis, 该插件有时会无响应, 影响使用

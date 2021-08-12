@@ -16,11 +16,15 @@
     - Java反编译
 - [📦 Java P3C Checker](https://marketplace.visualstudio.com/items?itemName=Rectcircle.vscode-p3c)
     - 代码检测
+- [📦 Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+    - 代码区 显示错误信息
 
 ## Git相关
 
 - [📦 GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
     - Git工具, 功能强大
+- [📦 GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+    - 代码补全工具
 
 ## 代码编辑
 

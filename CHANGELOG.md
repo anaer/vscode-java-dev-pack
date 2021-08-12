@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.1(2021-08-12)
+
+* 添加error lens
+* 添加github copilot
+
 ## 0.1.0(2021-06-28)
 
 * package.json未去掉vsc-mybatis

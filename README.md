@@ -8,6 +8,8 @@
     - Java语言支持
 - [📦 Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
     - Java Debugger
+- [📦 Test Runner for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)
+    - Junit
 - [📦 Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
     - 集成maven命令
 - [📦 Lombok Annotations Support for VS Code](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
@@ -49,4 +51,5 @@
     - 文件工具, 主要使用文件重命名功能
 - [📦 eyes-love](https://marketplace.visualstudio.com/items?itemName=gracie-wdy.eyes-love)
     - 护眼主题
-
+- [📦 EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+    - 统一配置

@@ -21,20 +21,6 @@
 - [📦 Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
     - 代码区 显示错误信息
 
-## Git相关
-
-- [📦 GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-    - Git工具, 功能强大
-- [📦 GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
-    - 代码补全工具
-
-## 代码编辑
-
-- [📦 Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
-    - vim插件
-- [📦 Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-    - 代码补全
-
 ## 语法文件
 - [📦 XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
     - xml格式化
@@ -45,11 +31,5 @@
 
 ## 其他
 
-- [📦 Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
-    - 书签管理
-- [📦 File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
-    - 文件工具, 主要使用文件重命名功能
-- [📦 eyes-love](https://marketplace.visualstudio.com/items?itemName=gracie-wdy.eyes-love)
-    - 护眼主题
-- [📦 EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-    - 统一配置
+- [📦 VSCode Base Pack](https://marketplace.visualstudio.com/items?itemName=anaer.vscode-base-pack)
+    - 包含常用的一些扩展

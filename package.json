@@ -3,7 +3,7 @@
     "displayName": "vscode java pack",
     "description": "java开发包",
     "publisher": "anaer",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-java-pack.git"
@@ -22,6 +22,6 @@
         "redhat.vscode-yaml",
         "GabrielBB.vscode-lombok",
         "dgileadi.java-decompiler",
-        "rectcircle.vscode-p3c"
+        "yangbaopan.vscode-java-p3c"
     ]
 }

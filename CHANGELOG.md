@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.8(20221116)
+
+- 去掉sourcegraph, 貌似在pack中启用有问题
+
 ## 0.1.7(20221109)
 
 - 增加sourcegraph

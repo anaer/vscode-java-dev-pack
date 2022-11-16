@@ -3,7 +3,7 @@
     "displayName": "VSCode Java Pack",
     "description": "Java开发包",
     "publisher": "anaer",
-    "version": "0.1.7",
+    "version": "0.1.9",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-java-pack.git"
@@ -15,14 +15,13 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "vscjava.vscode-java-pack",
         "anaer.vscode-base-pack",
+        "vscjava.vscode-java-pack",
         "redhat.vscode-commons",
         "redhat.vscode-xml",
         "redhat.vscode-yaml",
         "GabrielBB.vscode-lombok",
         "dgileadi.java-decompiler",
-        "yangbaopan.vscode-java-p3c",
-        "sourcegraph.sourcegraph"
+        "yangbaopan.vscode-java-p3c"
     ]
 }

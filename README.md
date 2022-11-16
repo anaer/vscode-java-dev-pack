@@ -26,12 +26,13 @@ Java 开发插件包
 
 - [<img src="https://anaer.gallery.vsassets.io/_apis/public/gallery/publisher/anaer/extension/vscode-base-pack/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> VSCode Base Pack](https://marketplace.visualstudio.com/items?itemName=anaer.vscode-base-pack)
   - 包含常用的一些扩展
-- [<img src="https://sourcegraph.gallerycdn.vsassets.io/extensions/sourcegraph/sourcegraph/2.2.14/1666980980049/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph)
-  - 代码搜索
 
 ## 待定
 
 - [<img src="https://Rectcircle.gallery.vsassets.io/_apis/public/gallery/publisher/Rectcircle/extension/vscode-p3c/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Java P3C Checker](https://marketplace.visualstudio.com/items?itemName=Rectcircle.vscode-p3c)
   - 代码检测
+
+- [<img src="https://sourcegraph.gallerycdn.vsassets.io/extensions/sourcegraph/sourcegraph/2.2.14/1666980980049/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph)
+  - 代码搜索
 
 [图标]: https://www.iconfinder.com/icons/4373217/java_logo_logos_icon

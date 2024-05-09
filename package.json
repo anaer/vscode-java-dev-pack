@@ -1,9 +1,9 @@
 {
-    "name": "vscode-java-dev-pack",
-    "displayName": "VSCode Java Pack",
-    "description": "Java开发包",
+    "name": "vscode-tea-dev-pack",
+    "displayName": "VSCode Tea Pack",
+    "description": "Tea开发包",
     "publisher": "anaer",
-    "version": "0.1.9",
+    "version": "0.2.0",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-java-pack.git"

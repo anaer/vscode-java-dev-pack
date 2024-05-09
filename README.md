@@ -35,4 +35,4 @@ Java 开发插件包
 - [<img src="https://sourcegraph.gallerycdn.vsassets.io/extensions/sourcegraph/sourcegraph/2.2.14/1666980980049/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph)
   - 代码搜索
 
-[图标]: https://www.iconfinder.com/icons/4373217/java_logo_logos_icon
+[图标]: https://www.iconfinder.com/icons/5079026/beverage_break_coffee_cup_drink_of_tea_icon
